@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <address></address>
+        <id>1</id>
+        <password>client</password>
+        <userType>client</userType>
+        <username>clientz</username>
+    </user>
+    <user>
+        <address></address>
+        <id>2</id>
+        <password></password>
+        <userType></userType>
+        <username>clientz</username>
+    </user>
+    <user>
+        <address>Str ABC</address>
+        <id>5</id>
+        <password>admin</password>
+        <userType>admin</userType>
+        <username>admin</username>
+    </user>
+</users>

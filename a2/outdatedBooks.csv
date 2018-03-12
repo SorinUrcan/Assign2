@@ -1,0 +1,4 @@
+ID,Genre,Title,Author,Price,Quantity
+8,Empty,EmptyTest,Empty,55,0
+9,Empty,EmptyTest,Empty,55,-5
+10,A test,A title,a author,3500,0

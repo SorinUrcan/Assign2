@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <author>HorrorAuthor</author>
+        <genre>Horror</genre>
+        <id>1</id>
+        <price>2500</price>
+        <stock>7</stock>
+        <title>HorrorTitle</title>
+    </book>
+    <book>
+        <author>Mary Higgins Clark</author>
+        <genre>Hardcover</genre>
+        <id>2</id>
+        <price>16</price>
+        <stock>5</stock>
+        <title>All by Myself</title>
+    </book>
+    <book>
+        <author>Jay Asher</author>
+        <genre>Paperback</genre>
+        <id>3</id>
+        <price>7</price>
+        <stock>5</stock>
+        <title>Thirteen Reasons Why</title>
+    </book>
+    <book>
+        <author>David Ross</author>
+        <genre>Hardcover</genre>
+        <id>4</id>
+        <price>18</price>
+        <stock>20</stock>
+        <title>Teammate</title>
+    </book>
+    <book>
+        <author>Stephen King</author>
+        <genre>Paperback</genre>
+        <id>5</id>
+        <price>13</price>
+        <stock>15</stock>
+        <title>SF</title>
+    </book>
+    <book>
+        <author>Katy Hudson</author>
+        <genre>Hardcover</genre>
+        <id>6</id>
+        <price>12</price>
+        <stock>20</stock>
+        <title>Too Many Carrots</title>
+    </book>
+    <book>
+        <author>James Patterson</author>
+        <genre>Hardcover</genre>
+        <id>7</id>
+        <price>17</price>
+        <stock>20</stock>
+        <title>The Black Book</title>
+    </book>
+    <book>
+        <author>Empty</author>
+        <genre>Empty</genre>
+        <id>8</id>
+        <price>55</price>
+        <stock>0</stock>
+        <title>EmptyTest</title>
+    </book>
+    <book>
+        <author>Empty</author>
+        <genre>Empty</genre>
+        <id>9</id>
+        <price>55</price>
+        <stock>-5</stock>
+        <title>EmptyTest</title>
+    </book>
+    <book>
+        <author>An author</author>
+        <genre>A test</genre>
+        <id>10</id>
+        <price>3500</price>
+        <stock>0</stock>
+        <title>A title</title>
+    </book>
+</books>
